@@ -1,6 +1,6 @@
 ### Hi there👋
 
-<h1 align="center"> I'm Amit Jangid</h1>
+<h1 align="left"> I'm Amit Jangid</h1>
 <h3 align="center" >I'm full Stack Developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/indiawale014" target="blank"><img src="https://img.shields.io/twitter/follow/indiawale014?logo=twitter&style=for-the-badge" alt="indiawale014" /></a> </p>
