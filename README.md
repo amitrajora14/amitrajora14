@@ -25,6 +25,10 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitjhar&show_icons=true&locale=en&layout=compact" alt="amitjhar" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitjhar&show_icons=true&locale=en" alt="amitjhar" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitjhar&" alt="amitjhar" />
+
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://twitter.com/indiawale014" target="blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
@@ -33,9 +37,4 @@
 <a href="https://www.youtube.com/c/amit jangid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amit jangid" height="30" width="40" /></a>
 <a href="https://discord.gg/Amit Jangid#9235" target="blank">![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitjhar&show_icons=true&locale=en&layout=compact" alt="amitjhar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitjhar&show_icons=true&locale=en" alt="amitjhar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitjhar&" alt="amitjhar" /></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitjhar" alt="amitjhar" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitjhar" alt="amitjhar" /></a>
