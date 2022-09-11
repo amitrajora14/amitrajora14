@@ -25,11 +25,11 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitjhar&show_icons=true&locale=en&layout=compact" alt="amitjhar" />
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=amitjhar&show_icons=true&locale=en&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=amitjhar&show_icons=true&locale=en" alt="amitjhar" /></p>
+![Used Language](https://github-readme-stats.vercel.app/api?username=amitjhar&show_icons=true&locale=en)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitjhar&" alt="amitjhar" />
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitjhar)
 
 <h3 align="left">Connect with me:</h3>
 
