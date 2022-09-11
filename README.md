@@ -14,9 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://twitter.com/indiawale014" target="blank">
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-</a>
+<a href="https://twitter.com/indiawale014" target="blank">![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
 
 <a href="https://linkedin.com/in/amit-jangid014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-jangid014" height="30" width="40" /></a>
 
