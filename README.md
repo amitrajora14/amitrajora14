@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<img src="https://komarev.com/ghpvc/?username=amitjhar&label=Profile%20views&color=0e75b6&style=flat" alt="amitjhar" />
+<img src="https://komarev.com/ghpvc/?username=amitrajora14&label=Profile%20views&color=0e75b6&style=flat" alt="amitrajora14" />
 
 - 💻 Full stack developer at Wisflux Tech Labs, Jaipur
 
@@ -26,11 +26,11 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=amitjhar&show_icons=true&locale=en&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=amitrajora14&show_icons=true&locale=en&layout=compact)
 
-![Used Language](https://github-readme-stats.vercel.app/api?username=amitjhar&show_icons=true&locale=en)
+![Used Language](https://github-readme-stats.vercel.app/api?username=amitrajora14&show_icons=true&locale=en)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitjhar)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitrajora14)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -40,4 +40,4 @@
 <a href="https://www.youtube.com/channel/UCmP8Pc4yAbhab9O-zMS3Cxw" target="blank">![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)</a>
 <a href="https://discord.gg/Amit Jangid#9235" target="blank">![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitjhar" alt="amitjhar" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitrajora14" alt="amitrajora14" /></a>
