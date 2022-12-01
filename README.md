@@ -7,7 +7,7 @@
 
 - 💻 Full stack developer at Wisflux Tech Labs, Jaipur
 
-- 🌱 I’m currently learning **React and Nest**
+- 🌱 I’m currently learning **React , Nest and Cypress Automation Testing**
 
 - 📫 Contact me at **amitjangid.it@gmail.com**
 
@@ -24,6 +24,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Cypress](https://img.shields.io/badge/cypress-%23007ACC.svg?style=for-the-badge&logo=cypress&logoColor=white)
 
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=amitrajora14&show_icons=true&locale=en&layout=compact)
