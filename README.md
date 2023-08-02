@@ -28,7 +28,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Cypress](https://img.shields.io/badge/cypress-%23007ACC.svg?style=for-the-badge&logo=cypress&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-%23007ACC.svg?style=for-the-badge&logo=jest&logoColor=white)
-
+![detox](https://img.shields.io/badge/detox-%23007ACC.svg?style=for-the-badge&logo=detox&logoColor=white)
 
 
 
