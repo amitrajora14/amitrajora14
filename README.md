@@ -36,7 +36,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=amitrajora14&show_icons=true&locale=en&layout=compact)
 
-![Used Language](https://github-readme-stats.vercel.app/api?username=amitrajora14&show_icons=true&count_private=true&locale=en)
+![Used Language](https://github-readme-stats-ksvkabra.vercel.app/api?username=amitrajora14&count_private=true&show_icons=true&locale=en)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=amitrajora14)
 
